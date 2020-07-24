@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACI,YACJ,CACA,EACI,cACJ,CACA,YACI,qBACJ,CACA,OACI,gBACJ","file":"main.3e61047d.chunk.css","sourcesContent":[".home{\n    padding: 40px;\n}\np{\n    font-size:20px;\n}\n.container2{\n    border: 1px solid black;\n}\n.right{\n    margin-left:70px;\n}\n"]}
